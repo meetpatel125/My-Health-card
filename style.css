@@ -838,5 +838,54 @@ box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.3);
   }
 
 }
+
+
+@media(max-width: 640px){
+  .header-button a {
+    border: 1px solid white;
+    border-radius: 100px;
+    margin: 0 0px;
+    padding: 12px 35px;
+    outline: none;
+    color: #fff;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.4;
+    text-align: center;
+
+  }
+
+  .header-button a:hover {
+    color: #50d1c0;
+    background: white;
+    text-decoration: none;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.3);
+
+  }
+
+
+}
+
+
+
+/* .header-button a {
+  border: 1px solid white;
+  border-radius: 100px;
+  margin: 0 5px;
+  padding: 12px 35px;
+  outline: none;
+  color: #fff;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.4;
+  text-align: center;
+}
+
+.header-button a:hover {
+  color: #50d1c0;
+  background: white;
+  text-decoration: none;
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.3);
+} */
 /*  */
 
