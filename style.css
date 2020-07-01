@@ -826,9 +826,15 @@ box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.3);
   }
 
   .bigp{
-    font-size: 10px;
+    font-size: 15px;
     font-weight: bold;
     font-family: 'Yellowtail', cursive;
+  }
+
+
+  .smallh1{
+    font-size: 25px;
+
   }
 
 }
